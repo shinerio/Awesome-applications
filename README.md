@@ -75,6 +75,49 @@
 - **aurora HDR**
 Aurora HDR 是目前 macOS 平台最优秀的 HDR 照片处理工具，借助强大的算法，Aurora HDR 在照片噪点控制和快速批量处理等各方面都独具特色
 
+
+- **Boom 3D**
+一款mac音效增强软件，可以突破物理极限，增强立体声效果等
+
+- **caoto** 
+一款截图软件，定制化截图区域，对网页内容进行全部截图，可以后期整理归档标注处理
+
+- **timing**
+一款记录电脑工作轨迹的软件，可以估算工作效率
+- **alfred** 
+神器，可以接管spotlight，启动应用，检索文件（包括文件内容），各种workflow等等
+
+- **Dash**
+程序员必备，各种api文档，可以设置快捷代码块
+
+- **keyboard maestro**
+automator的强化，可以设置热键或触发器，编写脚本，实现各种流程操作
+
+- **Affinity Photo**
+转为mac优化的一款p图软件，功能堪比photoshop
+
+- **IINA**
+一款优秀的支持多种格式的免费视频播放软件
+
+- **bartender**
+管理mac上方菜单栏,隐藏部分不常用程序
+
+- **istat menus**
+监控系统状态（硬件温度，网络速度，ip），控制风扇等
+
+- **transmit**
+支持sftp,ftp等,甚至支持dropbox和google drive
+
+- **iterm**
+优秀的终端
+
+- **parrallel**
+虚拟机管理
+
+- **cleanmymac**
+干净卸载系统软件，清理垃圾
+
+
 ## windows
 - **Launchy**  一款热键呼出启动应用的软件
 - **Everything**  热键呼出搜索文件
