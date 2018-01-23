@@ -41,6 +41,8 @@
 - **reeder**(for ios and macos)
   rss阅读器
 
+- **omnifocus**(for ios and macos)
+  一款TODOlist软件
 
 ## ios
 
@@ -63,8 +65,24 @@
 
 ## Mac
 - [Karabiner-Elements] - macOS Sierra 下强大的键盘自定义修改工具。
-- LyricsX
+
+- **LyricsX**
     macOS 最完美歌词软件 可自动从网易云音乐、虾米音乐、QQ 音乐、酷狗等平台摘取歌词资源
+    
+- **omniGraffle**
+专业的 Mac/iPad 端绘图工具，可绘制图表，流程图，组织结构图以及插图
+
+- **aurora HDR**
+Aurora HDR 是目前 macOS 平台最优秀的 HDR 照片处理工具，借助强大的算法，Aurora HDR 在照片噪点控制和快速批量处理等各方面都独具特色
+
+## windows
+- **Launchy**  一款热键呼出启动应用的软件
+- **Everything**  热键呼出搜索文件
+- **cclean**  系统清理工具
+- **rechva**  文件恢复工具
+- **proxifier**  系统强制代理工具
+- **Filezilla**  scp工具
+
 
 ## 终端工具
 
