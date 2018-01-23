@@ -1,3 +1,11 @@
+ # awesome-tools [![Awesome][awesome-badge]][awesome-link]
+
+[![Chinese][chinese-badge]](README.md)
+
+ 这个仓库维护了一个主要面向开发者的 Mac 软件以及命令行终端实用工具的列表，列表中的工具软件都非常好用。  
+
+ [English Version](README.md)
+
 # cross-platform
 - **anki**
 
@@ -18,14 +26,6 @@
  
 - **Mendeley**
   Mendeley is a desktop and web program produced by Elsevier for managing and sharing research papers,[1] discovering research data and       collaborating online. It combines Mendeley Desktop, a PDF and reference management application available for Windows, macOS (Sierra and     High Sierra no longer supported[2]) and Linux. It also provides Mendeley for Android and iOS, with Mendeley Web, an online social network   for researchers
-  
-  # awesome-tools [![Awesome][awesome-badge]][awesome-link]
-
-[![Chinese][chinese-badge]](README.md)
-
- 这个仓库维护了一个主要面向开发者的 Mac 软件以及命令行终端实用工具的列表，列表中的工具软件都非常好用。  
-
- [English Version](README.md)
 
 ## Mac 软件
 - [Karabiner-Elements] - macOS Sierra 下强大的键盘自定义修改工具。
