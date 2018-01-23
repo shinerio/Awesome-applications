@@ -25,7 +25,7 @@
 - **Mendeley**
   Mendeley is a desktop and web program produced by Elsevier for managing and sharing research papers,[1] discovering research data and       collaborating online. It combines Mendeley Desktop, a PDF and reference management application available for Windows, macOS (Sierra and     High Sierra no longer supported[2]) and Linux. It also provides Mendeley for Android and iOS, with Mendeley Web, an online social network   for researchers
 
-## Mac 软件
+## Mac
 - [Karabiner-Elements] - macOS Sierra 下强大的键盘自定义修改工具。
 
 ## 终端工具
