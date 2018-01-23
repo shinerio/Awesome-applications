@@ -55,13 +55,12 @@
 - **Mug Life**
    根据照片形成动态GIF表情
 - **修图软件**
-
-  - touretouch
-  - facetune
-  - snapseed
-  - polar泼辣修图
-  - vsco
-  - SKRWT
+	- touretouch
+ 	- facetune
+ 	- snapseed
+ 	- polar泼辣修图
+	- vsco
+	- SKRWT
 
 
 ## Mac
