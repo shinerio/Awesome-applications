@@ -4,7 +4,8 @@
 
  这个仓库维护了一个主要面向开发者的软件以及命令行终端实用工具的列表，列表中的工具软件都非常好用。  
 
-# cross-platform
+## cross-platform
+默认跨windows，ios，macos
 - **anki**
 
   Anki是一个使记忆变得容易的学习软件。因为它是一个自定义多功能的记忆方式，可以大大减少你的学习时间，也可以大大提高 你的学习容量.
@@ -23,10 +24,47 @@
  
  
 - **Mendeley**
-  Mendeley is a desktop and web program produced by Elsevier for managing and sharing research papers,[1] discovering research data and       collaborating online. It combines Mendeley Desktop, a PDF and reference management application available for Windows, macOS (Sierra and     High Sierra no longer supported[2]) and Linux. It also provides Mendeley for Android and iOS, with Mendeley Web, an online social network   for researchers
+  Mendeley is a desktop and web program produced by Elsevier for managing and sharing research papers,discovering research data and       collaborating online. It combines Mendeley Desktop, a PDF and reference management application available for Windows, macOS (Sierra 	   and   High Sierra no longer supported) and Linux. It also provides Mendeley for Android and iOS, with Mendeley Web, an online social     network   for researchers
+ 
+- **snipaste** 
+   一款优秀的截图软件，可以**贴图**
+
+- **1password**
+   强大的密码管理工具
+   
+- **Dropbox,Google Grive**
+   云盘
+ 
+- **day one**
+   优秀的日记软件，可以读取社交网络数据，获取当前状态（天气，动作，收听音乐），定位等
+ 
+- **reeder**(for ios and macos)
+  rss阅读器
+
+
+## ios
+
+- **Castro**
+   播客订阅软件
+- **MoneyWiz**
+   记录收支软件以及制定预算，生成各种报表
+- **1second**
+   每天记录一个瞬间形成一个小视频
+- **Mug Life**
+   根据照片形成动态GIF表情
+- **修图软件**
+  - touretouch
+  - facetune
+  - snapseed
+  - polar泼辣修图
+  - vsco
+  - SKRWT
+
 
 ## Mac
 - [Karabiner-Elements] - macOS Sierra 下强大的键盘自定义修改工具。
+- LyricsX
+    macOS 最完美歌词软件 可自动从网易云音乐、虾米音乐、QQ 音乐、酷狗等平台摘取歌词资源
 
 ## 终端工具
 
