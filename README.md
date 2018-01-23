@@ -21,7 +21,7 @@
   
   # awesome-tools [![Awesome][awesome-badge]][awesome-link]
 
-[![Chinese][chinese-badge]](README-zh.md) [![English][english-badge]](README.md)
+[![Chinese][chinese-badge]](README.md)
 
  这个仓库维护了一个主要面向开发者的 Mac 软件以及命令行终端实用工具的列表，列表中的工具软件都非常好用。  
 
