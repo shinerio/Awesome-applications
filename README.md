@@ -137,6 +137,7 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 
 - [trello] - 以卡片形式来管理团队任务，国内类似软件Teambition
 - [Iconfont] - 阿里巴巴矢量图
+- [flatIcon] - 全球最大的矢量图库
 - [Curl-Python] - curl指令转化为phthon命令
 - [Greasy Fork] - Tampermonkey脚本库
 - [gitIgnore] - 生成.gitignore工具
@@ -215,3 +216,4 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 [leetcode]: https://leetcode.com/
 [httpcode]: https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 [vultr]: https://www.vultr.com
+[flatIcon]: https://www.flaticon.com/
