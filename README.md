@@ -37,7 +37,10 @@
  
 - **day one**
    优秀的日记软件，可以读取社交网络数据，获取当前状态（天气，动作，收听音乐），定位等
- 
+
+- **Instapaper**
+    稍后阅读	
+	
 - **reeder**(for ios and macos)
   rss阅读器
 
@@ -61,7 +64,14 @@
  	- polar泼辣修图
 	- vsco
 	- SKRWT
-
+- **IFTTT**
+   if this then that,可以自动触发帮助你完成许多重复工作
+- **科学上网**
+	 - shadowrocket
+	 - Surge
+- **hashPhotos**
+   接管系统相册
+ 
 
 ## Mac
 - [Karabiner-Elements] - macOS Sierra 下强大的键盘自定义修改工具。
