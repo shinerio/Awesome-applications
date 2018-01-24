@@ -137,6 +137,9 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 
 - [trello] - 以卡片形式来管理团队任务，国内类似软件Teambition
 - [Iconfont] - 阿里巴巴矢量图
+- [Curl-Python] - curl指令转化为phthon命令
+- [Greasy Fork] - Tampermonkey脚本库
+- [gitIgnore] - 生成.gitignore工具
 
 ## 终端工具
 
@@ -192,3 +195,6 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 [Karabiner-Elements]: https://github.com/tekezo/Karabiner-Elements
 [trello]: https://trello.com
 [Iconfont]: http://www.iconfont.cn
+[Curl-Python]: https://curl.trillworks.com/
+[Greasy Fork]: https://greasyfork.org/zh-CN
+[gitIgnore]: https://www.gitignore.io/
