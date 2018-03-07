@@ -161,7 +161,7 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 - [httpcode] - http响应吗标准参考
 - [vultr] - 科学上网从这里开始
 - [unsplash] - 高清免费图库 
-
+- [sub HD] - 字幕网站
 ## 终端工具
 
 - [zsh] - 用于替代 `Bash` 的强大 shell。
@@ -229,3 +229,4 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 [vultr]: https://www.vultr.com
 [flatIcon]: https://www.flaticon.com/
 [unsplash]: https://unsplash.com/
+[sub HD]: http://subhd.com/
