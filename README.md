@@ -163,6 +163,7 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 - [unsplash] - 高清免费图库 
 - [sub HD] - 字幕网站
 - [linggle] - 单词搭配对比查询
+- [telegramBot] - telegram机器人
 
 ## 终端工具
 
@@ -233,3 +234,4 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 [unsplash]: https://unsplash.com/
 [sub HD]: http://subhd.com/
 [linggle]: http://linggle.com/
+[telegramBot]: https://storebot.me/
