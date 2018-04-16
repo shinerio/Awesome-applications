@@ -164,6 +164,7 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 - [sub HD] - 字幕网站
 - [linggle] - 单词搭配对比查询
 - [telegramBot] - telegram机器人
+- [swagger] - 在线接口文档及测试
 
 ## 终端工具
 
@@ -235,3 +236,4 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 [sub HD]: http://subhd.com/
 [linggle]: http://linggle.com/
 [telegramBot]: https://storebot.me/
+[swagger]: https://swagger.io/
