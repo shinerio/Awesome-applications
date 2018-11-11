@@ -135,14 +135,16 @@ automator的强化，可以设置热键或触发器，编写脚本，实现各�
 电子书籍，图片，文档，应用的终极存档工具
 
 ## windows
-
+- **IDM** 非常好用的下载工具
 - **Launchy**  一款热键呼出启动应用的软件
 - **Everything**  热键呼出搜索文件
 - **cclean**  系统清理工具
 - **rechva**  文件恢复工具
 - **proxifier**  系统强制代理工具
 - **Filezilla**  scp工具
-- **Ltary**   文件浏览增强软件，可以给我的电脑加上很多快捷命令，快速打开文件夹和软件
+- **vox** 高级版cortana(mac中的spot light)
+- **wGestures** 鼠标手势
+- **Ltary**   文件浏览增强软件，可以给我的电脑加上很多快捷命令，快速打开文件夹和软件
 
 ## web
 
