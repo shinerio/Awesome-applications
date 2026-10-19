@@ -74,6 +74,9 @@
  
 
 ## Mac
+- **[Glim](https://github.com/NeoPanic/Glim)**
+  免费开源的 macOS 文件查看器，支持 Markdown 图表、代码、Git 差异、数据文件和电子书预览；提供基础文本编辑，PDF 和 Office 预览保持只读。
+
 - [Karabiner-Elements] - macOS Sierra 下强大的键盘自定义修改工具。
 
 - **LyricsX**
